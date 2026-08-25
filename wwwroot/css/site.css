@@ -1,0 +1,68 @@
+body {
+    background-color: #f4f6f9;
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+.app-navbar {
+    background: linear-gradient(90deg, #1e3c72, #2a5298);
+}
+
+.hero {
+    background: linear-gradient(135deg, #2a5298, #1e3c72);
+    padding: 3rem 1rem 4rem;
+}
+
+.search-form {
+    max-width: 500px;
+}
+
+.weather-card {
+    border: none;
+    border-radius: 1rem;
+}
+
+.stat-box {
+    background-color: #f8f9fa;
+    border-radius: 0.5rem;
+    padding: 0.75rem 0.5rem;
+}
+
+.stat-label {
+    font-size: 0.8rem;
+    color: #6c757d;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+}
+
+.stat-value {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.forecast-card {
+    border: none;
+    border-radius: 0.75rem;
+    background-color: #fff;
+    text-align: center;
+    padding: 1rem 0.5rem;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+.forecast-day {
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+}
+
+.forecast-condition {
+    font-size: 0.85rem;
+    color: #6c757d;
+}
+
+#temperature {
+    color: #1e3c72;
+}
+
+footer {
+    background-color: #fff;
+    border-top: 1px solid #e9ecef;
+}
