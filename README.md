@@ -351,6 +351,12 @@ Potential improvements include:
 
 ---
 
+## 🤖 AI-Assisted Development
+
+AI tools such as **ChatGPT** and **GitHub Copilot** were used to support research, debugging, understanding of programming concepts, and development throughout the project. Final implementation, testing, and development decisions were completed and reviewed by the developer.
+
+---
+
 ## 📄 License
 
 This project is available for **personal and educational reference**.
